@@ -1,3 +1,17 @@
+# Links of major resources I got help from
+
+Social Network Icons
+https://www.digitalocean.com/community/tutorials/creating-a-social-follow-component-in-react
+
+Functionality regarding switching tabs
+https://blog.logrocket.com/how-to-build-tab-component-react/
+
+Icon on browser tab
+https://favicon.io/emoji-favicons/man-technologist/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

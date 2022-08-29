@@ -1,0 +1,61 @@
+img {
+    width: auto;
+    max-width: 360px;
+    height: 200px;
+
+    display:inline-block;
+    padding-right: 20px;
+
+    -webkit-user-drag: none; 
+    -khtml-user-drag: none; 
+    -moz-user-drag: none; 
+    -o-user-drag: none; 
+
+    user-select:none;
+}
+
+.projText {
+    display:inline-block;
+    width: 400px;
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    position: relative;
+    left: 30px;
+}
+
+
+.projText p {
+    position: relative;
+    left: 20px;
+    text-align: left;
+}
+
+.proj {
+    background-color: white;
+    width: 1000px;
+    padding: 40px 20px 30px 20px;
+    margin: 34px;
+    position:relative;
+    left:210px;
+}
+
+.ProjectsTab {
+    margin-top: 140px;
+}
+
+.continue {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.ArkisysImg {
+    height: 40px;
+    margin-bottom: 46px;
+    margin-right: 60px;
+    position: relative;
+    left: 26px;
+}
+
+.AggieCodingClubImg {
+    margin-right: 40px;
+}

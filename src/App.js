@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+import SocialLinks from "./Social"
+import Tabs from "./Components/TabComponent/Tabs";
 import './App.css';
+import React  from 'react';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h4 className="title">Jaejin Cha</h4>
+        <div className="headerLinks">
+          <SocialLinks />
+        </div>
       </header>
+      <div className="body">
+        <Tabs/>
+      </div>       
+      <footer>
+        <SocialLinks/>
+      </footer>
     </div>
   );
 }
