@@ -13,7 +13,7 @@ const ProjectsTab = () => {
           <h2>Personal Website</h2>
           <p>
             I developed this website using React.js and implemented tab functionality using state. I learned how to publish a website<br></br>
-            Skills: React.js, CSS, server hosting<br></br>
+            Skills: React.js, CSS, firebase<br></br>
             GitHub: <a href="https://github.com/jaejin0/personal_website" target="_blank" rel="noreferrer">https://github.com/jaejin0/personal_website</a>
           </p>
         </div>
